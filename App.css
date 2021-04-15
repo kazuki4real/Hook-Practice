@@ -1,0 +1,11 @@
+.isClosed {
+  display: none;
+}
+
+.isOpen {
+  display: block;
+}
+
+span {
+  margin: 10px 10px;
+}
